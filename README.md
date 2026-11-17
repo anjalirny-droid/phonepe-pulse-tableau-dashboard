@@ -4,7 +4,7 @@ An interactive geo-visualization dashboard built in **Tableau Public** on PhoneP
 
 🔗 **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/anjali.nair3836/viz/PhonePePulseDashboard_17940490297660/PhonePePulseDashboard)
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.png)
 
 ---
 
